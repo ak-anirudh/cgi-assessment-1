@@ -1,0 +1,16 @@
+*.class
+.idea/
+target
+.tmp
+*.iml
+.settings
+.project
+.classpath
+
+/src/main/js/cgi-assessment-FE/.idea/
+/src/main/js/cgi-assessment-FE/node-modules/
+/src/main/js/cgi-assessment-FE/dist/
+/src/main/js/cgi-assessment-FE/tmp/
+/src/main/js/cgi-assessment-FE/out-tsc/
+# Only exists if Bazel was run
+/src/main/js/cgi-assessment-FE/bazel-out/

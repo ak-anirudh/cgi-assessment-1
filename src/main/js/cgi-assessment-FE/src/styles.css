@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; }
+*{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+
+.no-record{
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.example-container {
+  overflow: auto;
+  height: auto;
+}
+
+.mat-header-cell{
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.mat-row{
+  height: auto;
+}
+

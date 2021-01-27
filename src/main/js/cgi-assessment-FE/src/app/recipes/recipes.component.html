@@ -1,0 +1,49 @@
+<mat-card class="example-container mat-elevation-z8">
+<h3>Select the ingredients</h3>
+
+  <mat-form-field appearance="outline">
+    <mat-label>Ingredients</mat-label>
+    <mat-select [formControl]="ingredientsSelected" multiple (selectionchange)="getRecipes()">
+      <mat-option *ngFor="let ingredient of ingredients" [value]="ingredient">{{ingredient}}</mat-option>
+    </mat-select>
+  </mat-form-field>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<button mat-raised-button color="primary" (click)="getRecipes()">Select</button>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <label>Selected Ingredients -> {{ingredientsSelected.value}}</label>
+<mat-table class="mat-elevation-z8" [dataSource]="recipesResults" *ngIf="recipesResults.data.length; else noRecord">
+  <!-- Id Column -->
+  <ng-container matColumnDef="id">
+    <mat-header-cell *matHeaderCellDef > Id </mat-header-cell>
+    <mat-cell *matCellDef = "let element"> {{element.id}} </mat-cell>
+  </ng-container>
+
+  <!-- Name Column -->
+  <ng-container matColumnDef="title">
+    <mat-header-cell *matHeaderCellDef> Title </mat-header-cell>
+    <mat-cell *matCellDef = "let element"> {{element.title}} </mat-cell>
+  </ng-container>
+  <!-- ingredients Column -->
+  <ng-container matColumnDef="ingredients">
+    <mat-header-cell *matHeaderCellDef> Ingredients </mat-header-cell>
+    <mat-cell *matCellDef = "let element"> {{element.ingredients}} </mat-cell>
+  </ng-container>
+  <!-- href Column -->
+  <ng-container matColumnDef="href">
+    <mat-header-cell *matHeaderCellDef> Link to recipe </mat-header-cell>
+    <mat-cell *matCellDef = "let element"> <a routerLink="">{{element.href}}</a> </mat-cell>
+  </ng-container>
+  <!-- thumbnail Column -->
+  <ng-container matColumnDef="thumbnail">
+    <mat-header-cell *matHeaderCellDef> Thumbnail </mat-header-cell>
+    <mat-cell *matCellDef = "let element"> <img [src] = "element.thumbnail" /> </mat-cell>
+  </ng-container>
+  <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+  <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+</mat-table>
+  <ng-template #noRecord>
+    <div fxLayout="row" fxLayoutAlign="center center" class="no-record">
+      No Record(s) found
+    </div>
+  </ng-template>
+</mat-card>

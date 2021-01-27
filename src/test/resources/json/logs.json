@@ -1,0 +1,1262 @@
+[
+  {
+    "id": 1,
+    "logLevel": "INFO",
+    "description": "Application: Starting Application on phxdabs56 with PID 6184 (E:\\FluentGrid\\WorkingCopy\\REP\\target\\classes started by Sekhar in E:\\FluentGrid\\WorkingCopy\\REP)",
+    "timeStamp": "2018-09-10 15:32:34,611",
+    "thread": "main"
+  },
+  {
+    "id": 5,
+    "logLevel": "INFO",
+    "description": "MetricsConfiguration: Initializing Metrics JMX reporting",
+    "timeStamp": "2018-09-10 15:32:44,298",
+    "thread": "main"
+  },
+  {
+    "id": 6,
+    "logLevel": "INFO",
+    "description": "DefaultAddressPicker: null [dev] [3.2.5] Picked Address[127.0.0.1]:5701, using socket ServerSocket[addr=/0:0:0:0:0:0:0:0,localport=5701], bind any local is true",
+    "timeStamp": "2018-09-10 15:32:46,750",
+    "thread": "main"
+  },
+  {
+    "id": 7,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Hazelcast 3.2.5 (20140814) starting at Address[127.0.0.1]:5701",
+    "timeStamp": "2018-09-10 15:32:47,764",
+    "thread": "main"
+  },
+  {
+    "id": 8,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Copyright (C) 2008-2014 Hazelcast.com",
+    "timeStamp": "2018-09-10 15:32:47,764",
+    "thread": "main"
+  },
+  {
+    "id": 9,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTING",
+    "timeStamp": "2018-09-10 15:32:47,779",
+    "thread": "main"
+  },
+  {
+    "id": 13,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTED",
+    "timeStamp": "2018-09-10 15:32:50,306",
+    "thread": "main"
+  },
+  {
+    "id": 17,
+    "logLevel": "INFO",
+    "description": "HazelcastCacheRegionFactory: Starting up HazelcastCacheRegionFactory",
+    "timeStamp": "2018-09-10 15:33:22,952",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 19,
+    "logLevel": "INFO",
+    "description": "WebConfigurer: Web application configuration, using profiles: [dev]",
+    "timeStamp": "2018-09-10 15:33:35,259",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 24,
+    "logLevel": "INFO",
+    "description": "WebConfigurer: Web application fully configured",
+    "timeStamp": "2018-09-10 15:33:35,337",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 25,
+    "logLevel": "INFO",
+    "description": "Application: Running with Spring profile(s) : [dev]",
+    "timeStamp": "2018-09-10 15:33:35,836",
+    "thread": "main"
+  },
+  {
+    "id": 28,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 15:33:37,724",
+    "thread": "main"
+  },
+  {
+    "id": 32,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 15:33:37,755",
+    "thread": "main"
+  },
+  {
+    "id": 37,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 15:33:39,487",
+    "thread": "main"
+  },
+  {
+    "id": 43,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 15:33:39,533",
+    "thread": "main"
+  },
+  {
+    "id": 47,
+    "logLevel": "INFO",
+    "description": "ThymeleafConfiguration: loading non-reloadable mail messages resources",
+    "timeStamp": "2018-09-10 15:33:39,643",
+    "thread": "main"
+  },
+  {
+    "id": 50,
+    "logLevel": "INFO",
+    "description": "Application: Started Application in 90.115 seconds (JVM running for 91.635)",
+    "timeStamp": "2018-09-10 15:34:03,504",
+    "thread": "main"
+  },
+  {
+    "id": 99,
+    "logLevel": "INFO",
+    "description": "Application: Starting Application on phxdabs56 with PID 8164 (E:\\FluentGrid\\WorkingCopy\\REP\\target\\classes started by Sekhar in E:\\FluentGrid\\WorkingCopy\\REP)",
+    "timeStamp": "2018-09-10 16:29:18,833",
+    "thread": "main"
+  },
+  {
+    "id": 103,
+    "logLevel": "INFO",
+    "description": "MetricsConfiguration: Initializing Metrics JMX reporting",
+    "timeStamp": "2018-09-10 16:29:26,196",
+    "thread": "main"
+  },
+  {
+    "id": 104,
+    "logLevel": "INFO",
+    "description": "DefaultAddressPicker: null [dev] [3.2.5] Picked Address[127.0.0.1]:5701, using socket ServerSocket[addr=/0:0:0:0:0:0:0:0,localport=5701], bind any local is true",
+    "timeStamp": "2018-09-10 16:29:26,618",
+    "thread": "main"
+  },
+  {
+    "id": 105,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Hazelcast 3.2.5 (20140814) starting at Address[127.0.0.1]:5701",
+    "timeStamp": "2018-09-10 16:29:26,820",
+    "thread": "main"
+  },
+  {
+    "id": 106,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Copyright (C) 2008-2014 Hazelcast.com",
+    "timeStamp": "2018-09-10 16:29:26,867",
+    "thread": "main"
+  },
+  {
+    "id": 107,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTING",
+    "timeStamp": "2018-09-10 16:29:26,867",
+    "thread": "main"
+  },
+  {
+    "id": 111,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTED",
+    "timeStamp": "2018-09-10 16:29:27,976",
+    "thread": "main"
+  },
+  {
+    "id": 113,
+    "logLevel": "INFO",
+    "description": "HealthMonitor: [127.0.0.1]:5701 [dev] [3.2.5] memory.used=138.2M, memory.free=191.8M, memory.total=330.0M, memory.max=1.8G, memory.used/total=41.87%, memory.used/max=7.67%, load.process=-100.00%, load.system=92.00%, load.systemAverage=-100.00%, thread.count=28, thread.peakCount=28, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.operation.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operation.size=0, executor.q.priorityOperation.size=0, executor.q.response.size=0, operations.remote.size=0, operations.running.size=0, proxy.count=0, clientEndpoint.count=0, connection.active.count=0, connection.count=0",
+    "timeStamp": "2018-09-10 16:29:28,631",
+    "thread": "hz.repapp.HealthMonitor"
+  },
+  {
+    "id": 118,
+    "logLevel": "INFO",
+    "description": "CacheConfiguration: Remove Cache Manager metrics",
+    "timeStamp": "2018-09-10 16:29:42,467",
+    "thread": "main"
+  },
+  {
+    "id": 119,
+    "logLevel": "INFO",
+    "description": "CacheConfiguration: Closing Cache Manager",
+    "timeStamp": "2018-09-10 16:29:42,467",
+    "thread": "main"
+  },
+  {
+    "id": 120,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is SHUTTING_DOWN",
+    "timeStamp": "2018-09-10 16:29:42,467",
+    "thread": "main"
+  },
+  {
+    "id": 121,
+    "logLevel": "INFO",
+    "description": "initializer: [127.0.0.1]:5701 [dev] [3.2.5] Destroying node initializer.",
+    "timeStamp": "2018-09-10 16:29:42,499",
+    "thread": "main"
+  },
+  {
+    "id": 122,
+    "logLevel": "INFO",
+    "description": "Node: [127.0.0.1]:5701 [dev] [3.2.5] Hazelcast Shutdown is completed in 16 ms.",
+    "timeStamp": "2018-09-10 16:29:42,499",
+    "thread": "main"
+  },
+  {
+    "id": 123,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is SHUTDOWN",
+    "timeStamp": "2018-09-10 16:29:42,499",
+    "thread": "main"
+  },
+  {
+    "id": 125,
+    "logLevel": "INFO",
+    "description": "Application: Starting Application on phxdabs56 with PID 4388 (E:\\FluentGrid\\WorkingCopy\\REP\\target\\classes started by Sekhar in E:\\FluentGrid\\WorkingCopy\\REP)",
+    "timeStamp": "2018-09-10 16:37:49,994",
+    "thread": "main"
+  },
+  {
+    "id": 129,
+    "logLevel": "INFO",
+    "description": "MetricsConfiguration: Initializing Metrics JMX reporting",
+    "timeStamp": "2018-09-10 16:37:57,451",
+    "thread": "main"
+  },
+  {
+    "id": 130,
+    "logLevel": "INFO",
+    "description": "DefaultAddressPicker: null [dev] [3.2.5] Picked Address[127.0.0.1]:5701, using socket ServerSocket[addr=/0:0:0:0:0:0:0:0,localport=5701], bind any local is true",
+    "timeStamp": "2018-09-10 16:37:57,872",
+    "thread": "main"
+  },
+  {
+    "id": 131,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Hazelcast 3.2.5 (20140814) starting at Address[127.0.0.1]:5701",
+    "timeStamp": "2018-09-10 16:37:58,012",
+    "thread": "main"
+  },
+  {
+    "id": 132,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Copyright (C) 2008-2014 Hazelcast.com",
+    "timeStamp": "2018-09-10 16:37:58,012",
+    "thread": "main"
+  },
+  {
+    "id": 133,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTING",
+    "timeStamp": "2018-09-10 16:37:58,028",
+    "thread": "main"
+  },
+  {
+    "id": 137,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTED",
+    "timeStamp": "2018-09-10 16:37:58,855",
+    "thread": "main"
+  },
+  {
+    "id": 139,
+    "logLevel": "INFO",
+    "description": "HealthMonitor: [127.0.0.1]:5701 [dev] [3.2.5] memory.used=127.5M, memory.free=199.5M, memory.total=327.0M, memory.max=1.8G, memory.used/total=39.00%, memory.used/max=7.08%, load.process=-100.00%, load.system=80.00%, load.systemAverage=-100.00%, thread.count=28, thread.peakCount=28, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.operation.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operation.size=0, executor.q.priorityOperation.size=0, executor.q.response.size=0, operations.remote.size=0, operations.running.size=0, proxy.count=0, clientEndpoint.count=0, connection.active.count=0, connection.count=0",
+    "timeStamp": "2018-09-10 16:37:59,406",
+    "thread": "hz.repapp.HealthMonitor"
+  },
+  {
+    "id": 142,
+    "logLevel": "INFO",
+    "description": "HazelcastCacheRegionFactory: Starting up HazelcastCacheRegionFactory",
+    "timeStamp": "2018-09-10 16:38:18,206",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 144,
+    "logLevel": "INFO",
+    "description": "WebConfigurer: Web application configuration, using profiles: [dev]",
+    "timeStamp": "2018-09-10 16:38:26,864",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 149,
+    "logLevel": "INFO",
+    "description": "WebConfigurer: Web application fully configured",
+    "timeStamp": "2018-09-10 16:38:26,895",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 150,
+    "logLevel": "INFO",
+    "description": "Application: Running with Spring profile(s) : [dev]",
+    "timeStamp": "2018-09-10 16:38:27,067",
+    "thread": "main"
+  },
+  {
+    "id": 153,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 16:38:28,798",
+    "thread": "main"
+  },
+  {
+    "id": 157,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 16:38:28,845",
+    "thread": "main"
+  },
+  {
+    "id": 161,
+    "logLevel": "INFO",
+    "description": "HealthMonitor: [127.0.0.1]:5701 [dev] [3.2.5] memory.used=377.3M, memory.free=373.7M, memory.total=751.0M, memory.max=1.8G, memory.used/total=50.24%, memory.used/max=20.95%, load.process=69.00%, load.system=75.00%, load.systemAverage=-100.00%, thread.count=35, thread.peakCount=35, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.operation.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operation.size=0, executor.q.priorityOperation.size=0, executor.q.response.size=0, operations.remote.size=0, operations.running.size=0, proxy.count=65, clientEndpoint.count=0, connection.active.count=0, connection.count=0",
+    "timeStamp": "2018-09-10 16:38:29,454",
+    "thread": "hz.repapp.HealthMonitor"
+  },
+  {
+    "id": 163,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 16:38:30,577",
+    "thread": "main"
+  },
+  {
+    "id": 169,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 16:38:30,624",
+    "thread": "main"
+  },
+  {
+    "id": 173,
+    "logLevel": "INFO",
+    "description": "ThymeleafConfiguration: loading non-reloadable mail messages resources",
+    "timeStamp": "2018-09-10 16:38:30,764",
+    "thread": "main"
+  },
+  {
+    "id": 176,
+    "logLevel": "INFO",
+    "description": "Application: Started Application in 58.789 seconds (JVM running for 59.974)",
+    "timeStamp": "2018-09-10 16:38:47,815",
+    "thread": "main"
+  },
+  {
+    "id": 367,
+    "logLevel": "INFO",
+    "description": "Application: Starting Application on phxdabs56 with PID 1540 (E:\\FluentGrid\\WorkingCopy\\REP\\target\\classes started by Sekhar in E:\\FluentGrid\\WorkingCopy\\REP)",
+    "timeStamp": "2018-09-10 17:07:12,388",
+    "thread": "main"
+  },
+  {
+    "id": 371,
+    "logLevel": "INFO",
+    "description": "MetricsConfiguration: Initializing Metrics JMX reporting",
+    "timeStamp": "2018-09-10 17:07:19,860",
+    "thread": "main"
+  },
+  {
+    "id": 372,
+    "logLevel": "INFO",
+    "description": "DefaultAddressPicker: null [dev] [3.2.5] Picked Address[127.0.0.1]:5701, using socket ServerSocket[addr=/0:0:0:0:0:0:0:0,localport=5701], bind any local is true",
+    "timeStamp": "2018-09-10 17:07:20,234",
+    "thread": "main"
+  },
+  {
+    "id": 373,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Hazelcast 3.2.5 (20140814) starting at Address[127.0.0.1]:5701",
+    "timeStamp": "2018-09-10 17:07:20,344",
+    "thread": "main"
+  },
+  {
+    "id": 374,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Copyright (C) 2008-2014 Hazelcast.com",
+    "timeStamp": "2018-09-10 17:07:20,344",
+    "thread": "main"
+  },
+  {
+    "id": 375,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTING",
+    "timeStamp": "2018-09-10 17:07:20,359",
+    "thread": "main"
+  },
+  {
+    "id": 378,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTED",
+    "timeStamp": "2018-09-10 17:07:21,139",
+    "thread": "main"
+  },
+  {
+    "id": 380,
+    "logLevel": "INFO",
+    "description": "HealthMonitor: [127.0.0.1]:5701 [dev] [3.2.5] memory.used=136.5M, memory.free=194.5M, memory.total=331.0M, memory.max=1.8G, memory.used/total=41.23%, memory.used/max=7.58%, load.process=-100.00%, load.system=100.00%, load.systemAverage=-100.00%, thread.count=27, thread.peakCount=27, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.operation.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operation.size=0, executor.q.priorityOperation.size=0, executor.q.response.size=0, operations.remote.size=0, operations.running.size=0, proxy.count=0, clientEndpoint.count=0, connection.active.count=0, connection.count=0",
+    "timeStamp": "2018-09-10 17:07:21,576",
+    "thread": "hz.repapp.HealthMonitor"
+  },
+  {
+    "id": 386,
+    "logLevel": "INFO",
+    "description": "CacheConfiguration: Remove Cache Manager metrics",
+    "timeStamp": "2018-09-10 17:07:35,558",
+    "thread": "main"
+  },
+  {
+    "id": 387,
+    "logLevel": "INFO",
+    "description": "CacheConfiguration: Closing Cache Manager",
+    "timeStamp": "2018-09-10 17:07:35,574",
+    "thread": "main"
+  },
+  {
+    "id": 388,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is SHUTTING_DOWN",
+    "timeStamp": "2018-09-10 17:07:35,574",
+    "thread": "main"
+  },
+  {
+    "id": 389,
+    "logLevel": "INFO",
+    "description": "initializer: [127.0.0.1]:5701 [dev] [3.2.5] Destroying node initializer.",
+    "timeStamp": "2018-09-10 17:07:35,589",
+    "thread": "main"
+  },
+  {
+    "id": 390,
+    "logLevel": "INFO",
+    "description": "Node: [127.0.0.1]:5701 [dev] [3.2.5] Hazelcast Shutdown is completed in 15 ms.",
+    "timeStamp": "2018-09-10 17:07:35,589",
+    "thread": "main"
+  },
+  {
+    "id": 391,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is SHUTDOWN",
+    "timeStamp": "2018-09-10 17:07:35,589",
+    "thread": "main"
+  },
+  {
+    "id": 393,
+    "logLevel": "INFO",
+    "description": "Application: Starting Application on phxdabs56 with PID 2656 (E:\\FluentGrid\\WorkingCopy\\REP\\target\\classes started by Sekhar in E:\\FluentGrid\\WorkingCopy\\REP)",
+    "timeStamp": "2018-09-10 17:09:38,838",
+    "thread": "main"
+  },
+  {
+    "id": 397,
+    "logLevel": "INFO",
+    "description": "MetricsConfiguration: Initializing Metrics JMX reporting",
+    "timeStamp": "2018-09-10 17:09:46,107",
+    "thread": "main"
+  },
+  {
+    "id": 398,
+    "logLevel": "INFO",
+    "description": "DefaultAddressPicker: null [dev] [3.2.5] Picked Address[127.0.0.1]:5701, using socket ServerSocket[addr=/0:0:0:0:0:0:0:0,localport=5701], bind any local is true",
+    "timeStamp": "2018-09-10 17:09:46,513",
+    "thread": "main"
+  },
+  {
+    "id": 399,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Hazelcast 3.2.5 (20140814) starting at Address[127.0.0.1]:5701",
+    "timeStamp": "2018-09-10 17:09:46,638",
+    "thread": "main"
+  },
+  {
+    "id": 400,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Copyright (C) 2008-2014 Hazelcast.com",
+    "timeStamp": "2018-09-10 17:09:46,638",
+    "thread": "main"
+  },
+  {
+    "id": 401,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTING",
+    "timeStamp": "2018-09-10 17:09:46,638",
+    "thread": "main"
+  },
+  {
+    "id": 404,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTED",
+    "timeStamp": "2018-09-10 17:09:47,449",
+    "thread": "main"
+  },
+  {
+    "id": 407,
+    "logLevel": "INFO",
+    "description": "HealthMonitor: [127.0.0.1]:5701 [dev] [3.2.5] memory.used=139.8M, memory.free=186.7M, memory.total=326.5M, memory.max=1.8G, memory.used/total=42.83%, memory.used/max=7.76%, load.process=-100.00%, load.system=75.00%, load.systemAverage=-100.00%, thread.count=28, thread.peakCount=28, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.operation.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operation.size=0, executor.q.priorityOperation.size=0, executor.q.response.size=0, operations.remote.size=0, operations.running.size=0, proxy.count=0, clientEndpoint.count=0, connection.active.count=0, connection.count=0",
+    "timeStamp": "2018-09-10 17:09:47,979",
+    "thread": "hz.repapp.HealthMonitor"
+  },
+  {
+    "id": 413,
+    "logLevel": "INFO",
+    "description": "CacheConfiguration: Remove Cache Manager metrics",
+    "timeStamp": "2018-09-10 17:10:02,113",
+    "thread": "main"
+  },
+  {
+    "id": 414,
+    "logLevel": "INFO",
+    "description": "CacheConfiguration: Closing Cache Manager",
+    "timeStamp": "2018-09-10 17:10:02,129",
+    "thread": "main"
+  },
+  {
+    "id": 415,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is SHUTTING_DOWN",
+    "timeStamp": "2018-09-10 17:10:02,129",
+    "thread": "main"
+  },
+  {
+    "id": 416,
+    "logLevel": "INFO",
+    "description": "initializer: [127.0.0.1]:5701 [dev] [3.2.5] Destroying node initializer.",
+    "timeStamp": "2018-09-10 17:10:02,160",
+    "thread": "main"
+  },
+  {
+    "id": 417,
+    "logLevel": "INFO",
+    "description": "Node: [127.0.0.1]:5701 [dev] [3.2.5] Hazelcast Shutdown is completed in 31 ms.",
+    "timeStamp": "2018-09-10 17:10:02,160",
+    "thread": "main"
+  },
+  {
+    "id": 418,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is SHUTDOWN",
+    "timeStamp": "2018-09-10 17:10:02,160",
+    "thread": "main"
+  },
+  {
+    "id": 420,
+    "logLevel": "INFO",
+    "description": "Application: Starting Application on phxdabs56 with PID 7184 (E:\\FluentGrid\\WorkingCopy\\REP\\target\\classes started by Sekhar in E:\\FluentGrid\\WorkingCopy\\REP)",
+    "timeStamp": "2018-09-10 17:10:56,680",
+    "thread": "main"
+  },
+  {
+    "id": 424,
+    "logLevel": "INFO",
+    "description": "MetricsConfiguration: Initializing Metrics JMX reporting",
+    "timeStamp": "2018-09-10 17:11:04,449",
+    "thread": "main"
+  },
+  {
+    "id": 425,
+    "logLevel": "INFO",
+    "description": "DefaultAddressPicker: null [dev] [3.2.5] Picked Address[127.0.0.1]:5701, using socket ServerSocket[addr=/0:0:0:0:0:0:0:0,localport=5701], bind any local is true",
+    "timeStamp": "2018-09-10 17:11:04,824",
+    "thread": "main"
+  },
+  {
+    "id": 426,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Hazelcast 3.2.5 (20140814) starting at Address[127.0.0.1]:5701",
+    "timeStamp": "2018-09-10 17:11:04,948",
+    "thread": "main"
+  },
+  {
+    "id": 427,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Copyright (C) 2008-2014 Hazelcast.com",
+    "timeStamp": "2018-09-10 17:11:04,948",
+    "thread": "main"
+  },
+  {
+    "id": 428,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTING",
+    "timeStamp": "2018-09-10 17:11:04,948",
+    "thread": "main"
+  },
+  {
+    "id": 432,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTED",
+    "timeStamp": "2018-09-10 17:11:05,791",
+    "thread": "main"
+  },
+  {
+    "id": 436,
+    "logLevel": "INFO",
+    "description": "HazelcastCacheRegionFactory: Starting up HazelcastCacheRegionFactory",
+    "timeStamp": "2018-09-10 17:11:25,045",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 438,
+    "logLevel": "INFO",
+    "description": "WebConfigurer: Web application configuration, using profiles: [dev]",
+    "timeStamp": "2018-09-10 17:11:33,485",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 443,
+    "logLevel": "INFO",
+    "description": "WebConfigurer: Web application fully configured",
+    "timeStamp": "2018-09-10 17:11:33,500",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 444,
+    "logLevel": "INFO",
+    "description": "Application: Running with Spring profile(s) : [dev]",
+    "timeStamp": "2018-09-10 17:11:33,703",
+    "thread": "main"
+  },
+  {
+    "id": 447,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 17:11:35,491",
+    "thread": "main"
+  },
+  {
+    "id": 451,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 17:11:35,522",
+    "thread": "main"
+  },
+  {
+    "id": 455,
+    "logLevel": "INFO",
+    "description": "HealthMonitor: [127.0.0.1]:5701 [dev] [3.2.5] memory.used=415.2M, memory.free=379.8M, memory.total=795.0M, memory.max=1.8G, memory.used/total=52.23%, memory.used/max=23.05%, load.process=69.00%, load.system=74.00%, load.systemAverage=-100.00%, thread.count=36, thread.peakCount=36, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.operation.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operation.size=0, executor.q.priorityOperation.size=0, executor.q.response.size=0, operations.remote.size=0, operations.running.size=0, proxy.count=65, clientEndpoint.count=0, connection.active.count=0, connection.count=0",
+    "timeStamp": "2018-09-10 17:11:36,770",
+    "thread": "hz.repapp.HealthMonitor"
+  },
+  {
+    "id": 457,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 17:11:37,160",
+    "thread": "main"
+  },
+  {
+    "id": 463,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 17:11:37,222",
+    "thread": "main"
+  },
+  {
+    "id": 467,
+    "logLevel": "INFO",
+    "description": "ThymeleafConfiguration: loading non-reloadable mail messages resources",
+    "timeStamp": "2018-09-10 17:11:37,363",
+    "thread": "main"
+  },
+  {
+    "id": 470,
+    "logLevel": "INFO",
+    "description": "Application: Started Application in 58.811 seconds (JVM running for 60.246)",
+    "timeStamp": "2018-09-10 17:11:54,353",
+    "thread": "main"
+  },
+  {
+    "id": 471,
+    "logLevel": "INFO",
+    "description": "Application: Starting Application on phxdabs56 with PID 8088 (E:\\FluentGrid\\WorkingCopy\\REP\\target\\classes started by Sekhar in E:\\FluentGrid\\WorkingCopy\\REP)",
+    "timeStamp": "2018-09-10 17:48:08,916",
+    "thread": "main"
+  },
+  {
+    "id": 475,
+    "logLevel": "INFO",
+    "description": "MetricsConfiguration: Initializing Metrics JMX reporting",
+    "timeStamp": "2018-09-10 17:48:16,066",
+    "thread": "main"
+  },
+  {
+    "id": 476,
+    "logLevel": "INFO",
+    "description": "DefaultAddressPicker: null [dev] [3.2.5] Picked Address[127.0.0.1]:5701, using socket ServerSocket[addr=/0:0:0:0:0:0:0:0,localport=5701], bind any local is true",
+    "timeStamp": "2018-09-10 17:48:16,483",
+    "thread": "main"
+  },
+  {
+    "id": 477,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Hazelcast 3.2.5 (20140814) starting at Address[127.0.0.1]:5701",
+    "timeStamp": "2018-09-10 17:48:16,592",
+    "thread": "main"
+  },
+  {
+    "id": 478,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Copyright (C) 2008-2014 Hazelcast.com",
+    "timeStamp": "2018-09-10 17:48:16,592",
+    "thread": "main"
+  },
+  {
+    "id": 479,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTING",
+    "timeStamp": "2018-09-10 17:48:16,592",
+    "thread": "main"
+  },
+  {
+    "id": 483,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTED",
+    "timeStamp": "2018-09-10 17:48:17,403",
+    "thread": "main"
+  },
+  {
+    "id": 485,
+    "logLevel": "INFO",
+    "description": "HealthMonitor: [127.0.0.1]:5701 [dev] [3.2.5] memory.used=134.4M, memory.free=196.6M, memory.total=331.0M, memory.max=1.8G, memory.used/total=40.61%, memory.used/max=7.46%, load.process=-100.00%, load.system=100.00%, load.systemAverage=-100.00%, thread.count=28, thread.peakCount=28, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.operation.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operation.size=0, executor.q.priorityOperation.size=0, executor.q.response.size=0, operations.remote.size=0, operations.running.size=0, proxy.count=0, clientEndpoint.count=0, connection.active.count=0, connection.count=0",
+    "timeStamp": "2018-09-10 17:48:17,856",
+    "thread": "hz.repapp.HealthMonitor"
+  },
+  {
+    "id": 488,
+    "logLevel": "INFO",
+    "description": "HazelcastCacheRegionFactory: Starting up HazelcastCacheRegionFactory",
+    "timeStamp": "2018-09-10 17:48:34,297",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 490,
+    "logLevel": "INFO",
+    "description": "WebConfigurer: Web application configuration, using profiles: [dev]",
+    "timeStamp": "2018-09-10 17:48:43,423",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 495,
+    "logLevel": "INFO",
+    "description": "WebConfigurer: Web application fully configured",
+    "timeStamp": "2018-09-10 17:48:43,439",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 496,
+    "logLevel": "INFO",
+    "description": "Application: Running with Spring profile(s) : [dev]",
+    "timeStamp": "2018-09-10 17:48:43,626",
+    "thread": "main"
+  },
+  {
+    "id": 499,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 17:48:45,280",
+    "thread": "main"
+  },
+  {
+    "id": 503,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 17:48:45,311",
+    "thread": "main"
+  },
+  {
+    "id": 508,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 17:48:46,855",
+    "thread": "main"
+  },
+  {
+    "id": 514,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 17:48:46,902",
+    "thread": "main"
+  },
+  {
+    "id": 518,
+    "logLevel": "INFO",
+    "description": "ThymeleafConfiguration: loading non-reloadable mail messages resources",
+    "timeStamp": "2018-09-10 17:48:47,027",
+    "thread": "main"
+  },
+  {
+    "id": 519,
+    "logLevel": "INFO",
+    "description": "HealthMonitor: [127.0.0.1]:5701 [dev] [3.2.5] memory.used=66.0M, memory.free=728.5M, memory.total=794.5M, memory.max=1.8G, memory.used/total=8.31%, memory.used/max=3.67%, load.process=73.00%, load.system=79.00%, load.systemAverage=-100.00%, thread.count=35, thread.peakCount=35, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.operation.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operation.size=0, executor.q.priorityOperation.size=0, executor.q.response.size=0, operations.remote.size=0, operations.running.size=0, proxy.count=65, clientEndpoint.count=0, connection.active.count=0, connection.count=0",
+    "timeStamp": "2018-09-10 17:48:47,994",
+    "thread": "hz.repapp.HealthMonitor"
+  },
+  {
+    "id": 522,
+    "logLevel": "INFO",
+    "description": "Application: Started Application in 53.856 seconds (JVM running for 55.019)",
+    "timeStamp": "2018-09-10 17:49:01,758",
+    "thread": "main"
+  },
+  {
+    "id": 619,
+    "logLevel": "INFO",
+    "description": "Application: Starting Application on phxdabs56 with PID 4772 (E:\\FluentGrid\\WorkingCopy\\REP\\target\\classes started by Sekhar in E:\\FluentGrid\\WorkingCopy\\REP)",
+    "timeStamp": "2018-09-10 18:02:02,322",
+    "thread": "main"
+  },
+  {
+    "id": 623,
+    "logLevel": "INFO",
+    "description": "MetricsConfiguration: Initializing Metrics JMX reporting",
+    "timeStamp": "2018-09-10 18:02:09,625",
+    "thread": "main"
+  },
+  {
+    "id": 624,
+    "logLevel": "INFO",
+    "description": "DefaultAddressPicker: null [dev] [3.2.5] Picked Address[127.0.0.1]:5701, using socket ServerSocket[addr=/0:0:0:0:0:0:0:0,localport=5701], bind any local is true",
+    "timeStamp": "2018-09-10 18:02:10,031",
+    "thread": "main"
+  },
+  {
+    "id": 625,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Hazelcast 3.2.5 (20140814) starting at Address[127.0.0.1]:5701",
+    "timeStamp": "2018-09-10 18:02:10,140",
+    "thread": "main"
+  },
+  {
+    "id": 626,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Copyright (C) 2008-2014 Hazelcast.com",
+    "timeStamp": "2018-09-10 18:02:10,140",
+    "thread": "main"
+  },
+  {
+    "id": 627,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTING",
+    "timeStamp": "2018-09-10 18:02:10,156",
+    "thread": "main"
+  },
+  {
+    "id": 631,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTED",
+    "timeStamp": "2018-09-10 18:02:11,060",
+    "thread": "main"
+  },
+  {
+    "id": 635,
+    "logLevel": "INFO",
+    "description": "HazelcastCacheRegionFactory: Starting up HazelcastCacheRegionFactory",
+    "timeStamp": "2018-09-10 18:02:28,379",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 637,
+    "logLevel": "INFO",
+    "description": "WebConfigurer: Web application configuration, using profiles: [dev]",
+    "timeStamp": "2018-09-10 18:02:36,714",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 642,
+    "logLevel": "INFO",
+    "description": "WebConfigurer: Web application fully configured",
+    "timeStamp": "2018-09-10 18:02:36,745",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 643,
+    "logLevel": "INFO",
+    "description": "Application: Running with Spring profile(s) : [dev]",
+    "timeStamp": "2018-09-10 18:02:36,964",
+    "thread": "main"
+  },
+  {
+    "id": 646,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 18:02:38,617",
+    "thread": "main"
+  },
+  {
+    "id": 650,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 18:02:38,664",
+    "thread": "main"
+  },
+  {
+    "id": 655,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 18:02:40,287",
+    "thread": "main"
+  },
+  {
+    "id": 661,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 18:02:40,349",
+    "thread": "main"
+  },
+  {
+    "id": 665,
+    "logLevel": "INFO",
+    "description": "ThymeleafConfiguration: loading non-reloadable mail messages resources",
+    "timeStamp": "2018-09-10 18:02:40,474",
+    "thread": "main"
+  },
+  {
+    "id": 666,
+    "logLevel": "INFO",
+    "description": "HealthMonitor: [127.0.0.1]:5701 [dev] [3.2.5] memory.used=656.5M, memory.free=119.5M, memory.total=776.0M, memory.max=1.8G, memory.used/total=84.60%, memory.used/max=36.45%, load.process=74.00%, load.system=78.00%, load.systemAverage=-100.00%, thread.count=37, thread.peakCount=37, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.operation.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operation.size=0, executor.q.priorityOperation.size=0, executor.q.response.size=0, operations.remote.size=0, operations.running.size=0, proxy.count=65, clientEndpoint.count=0, connection.active.count=0, connection.count=0",
+    "timeStamp": "2018-09-10 18:02:42,361",
+    "thread": "hz.repapp.HealthMonitor"
+  },
+  {
+    "id": 669,
+    "logLevel": "INFO",
+    "description": "Application: Started Application in 54.886 seconds (JVM running for 56.204)",
+    "timeStamp": "2018-09-10 18:02:56,258",
+    "thread": "main"
+  },
+  {
+    "id": 702,
+    "logLevel": "INFO",
+    "description": "Application: Starting Application on phxdabs56 with PID 7980 (E:\\FluentGrid\\WorkingCopy\\REP\\target\\classes started by Sekhar in E:\\FluentGrid\\WorkingCopy\\REP)",
+    "timeStamp": "2018-09-10 18:09:50,368",
+    "thread": "main"
+  },
+  {
+    "id": 706,
+    "logLevel": "INFO",
+    "description": "MetricsConfiguration: Initializing Metrics JMX reporting",
+    "timeStamp": "2018-09-10 18:09:59,737",
+    "thread": "main"
+  },
+  {
+    "id": 707,
+    "logLevel": "INFO",
+    "description": "DefaultAddressPicker: null [dev] [3.2.5] Picked Address[127.0.0.1]:5701, using socket ServerSocket[addr=/0:0:0:0:0:0:0:0,localport=5701], bind any local is true",
+    "timeStamp": "2018-09-10 18:10:00,230",
+    "thread": "main"
+  },
+  {
+    "id": 708,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Hazelcast 3.2.5 (20140814) starting at Address[127.0.0.1]:5701",
+    "timeStamp": "2018-09-10 18:10:00,371",
+    "thread": "main"
+  },
+  {
+    "id": 709,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Copyright (C) 2008-2014 Hazelcast.com",
+    "timeStamp": "2018-09-10 18:10:00,371",
+    "thread": "main"
+  },
+  {
+    "id": 710,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTING",
+    "timeStamp": "2018-09-10 18:10:00,371",
+    "thread": "main"
+  },
+  {
+    "id": 714,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTED",
+    "timeStamp": "2018-09-10 18:10:01,205",
+    "thread": "main"
+  },
+  {
+    "id": 716,
+    "logLevel": "INFO",
+    "description": "HealthMonitor: [127.0.0.1]:5701 [dev] [3.2.5] memory.used=132.3M, memory.free=191.2M, memory.total=323.5M, memory.max=1.8G, memory.used/total=40.89%, memory.used/max=7.34%, load.process=-100.00%, load.system=97.00%, load.systemAverage=-100.00%, thread.count=28, thread.peakCount=28, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.operation.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operation.size=0, executor.q.priorityOperation.size=0, executor.q.response.size=0, operations.remote.size=0, operations.running.size=0, proxy.count=0, clientEndpoint.count=0, connection.active.count=0, connection.count=0",
+    "timeStamp": "2018-09-10 18:10:02,250",
+    "thread": "hz.repapp.HealthMonitor"
+  },
+  {
+    "id": 719,
+    "logLevel": "INFO",
+    "description": "HazelcastCacheRegionFactory: Starting up HazelcastCacheRegionFactory",
+    "timeStamp": "2018-09-10 18:10:18,620",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 721,
+    "logLevel": "INFO",
+    "description": "WebConfigurer: Web application configuration, using profiles: [dev]",
+    "timeStamp": "2018-09-10 18:10:27,605",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 726,
+    "logLevel": "INFO",
+    "description": "WebConfigurer: Web application fully configured",
+    "timeStamp": "2018-09-10 18:10:27,621",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 727,
+    "logLevel": "INFO",
+    "description": "Application: Running with Spring profile(s) : [dev]",
+    "timeStamp": "2018-09-10 18:10:27,855",
+    "thread": "main"
+  },
+  {
+    "id": 730,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 18:10:29,477",
+    "thread": "main"
+  },
+  {
+    "id": 734,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 18:10:29,509",
+    "thread": "main"
+  },
+  {
+    "id": 739,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 18:10:31,350",
+    "thread": "main"
+  },
+  {
+    "id": 745,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 18:10:31,381",
+    "thread": "main"
+  },
+  {
+    "id": 749,
+    "logLevel": "INFO",
+    "description": "ThymeleafConfiguration: loading non-reloadable mail messages resources",
+    "timeStamp": "2018-09-10 18:10:31,521",
+    "thread": "main"
+  },
+  {
+    "id": 750,
+    "logLevel": "INFO",
+    "description": "HealthMonitor: [127.0.0.1]:5701 [dev] [3.2.5] memory.used=521.3M, memory.free=249.2M, memory.total=770.5M, memory.max=1.8G, memory.used/total=67.66%, memory.used/max=28.95%, load.process=75.00%, load.system=80.00%, load.systemAverage=-100.00%, thread.count=35, thread.peakCount=35, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.operation.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operation.size=0, executor.q.priorityOperation.size=0, executor.q.response.size=0, operations.remote.size=0, operations.running.size=0, proxy.count=65, clientEndpoint.count=0, connection.active.count=0, connection.count=0",
+    "timeStamp": "2018-09-10 18:10:32,332",
+    "thread": "hz.repapp.HealthMonitor"
+  },
+  {
+    "id": 753,
+    "logLevel": "INFO",
+    "description": "Application: Started Application in 63.173 seconds (JVM running for 64.3)",
+    "timeStamp": "2018-09-10 18:10:52,559",
+    "thread": "main"
+  },
+  {
+    "id": 754,
+    "logLevel": "INFO",
+    "description": "HealthMonitor: [127.0.0.1]:5701 [dev] [3.2.5] memory.used=658.6M, memory.free=100.4M, memory.total=759.0M, memory.max=1.8G, memory.used/total=86.77%, memory.used/max=36.57%, load.process=47.00%, load.system=71.00%, load.systemAverage=-100.00%, thread.count=39, thread.peakCount=39, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.operation.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operation.size=0, executor.q.priorityOperation.size=0, executor.q.response.size=0, operations.remote.size=0, operations.running.size=0, proxy.count=65, clientEndpoint.count=0, connection.active.count=0, connection.count=0",
+    "timeStamp": "2018-09-10 18:11:02,337",
+    "thread": "hz.repapp.HealthMonitor"
+  },
+  {
+    "id": 1327,
+    "logLevel": "INFO",
+    "description": "Application: Starting Application on phxdabs56 with PID 8776 (E:\\FluentGrid\\WorkingCopy\\REP\\target\\classes started by Sekhar in E:\\FluentGrid\\WorkingCopy\\REP)",
+    "timeStamp": "2018-09-10 20:26:34,341",
+    "thread": "main"
+  },
+  {
+    "id": 1331,
+    "logLevel": "INFO",
+    "description": "MetricsConfiguration: Initializing Metrics JMX reporting",
+    "timeStamp": "2018-09-10 20:26:41,449",
+    "thread": "main"
+  },
+  {
+    "id": 1332,
+    "logLevel": "INFO",
+    "description": "DefaultAddressPicker: null [dev] [3.2.5] Picked Address[127.0.0.1]:5701, using socket ServerSocket[addr=/0:0:0:0:0:0:0:0,localport=5701], bind any local is true",
+    "timeStamp": "2018-09-10 20:26:41,854",
+    "thread": "main"
+  },
+  {
+    "id": 1333,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Hazelcast 3.2.5 (20140814) starting at Address[127.0.0.1]:5701",
+    "timeStamp": "2018-09-10 20:26:41,979",
+    "thread": "main"
+  },
+  {
+    "id": 1334,
+    "logLevel": "INFO",
+    "description": "system: [127.0.0.1]:5701 [dev] [3.2.5] Copyright (C) 2008-2014 Hazelcast.com",
+    "timeStamp": "2018-09-10 20:26:41,979",
+    "thread": "main"
+  },
+  {
+    "id": 1335,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTING",
+    "timeStamp": "2018-09-10 20:26:41,979",
+    "thread": "main"
+  },
+  {
+    "id": 1339,
+    "logLevel": "INFO",
+    "description": "LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTED",
+    "timeStamp": "2018-09-10 20:26:42,790",
+    "thread": "main"
+  },
+  {
+    "id": 1341,
+    "logLevel": "INFO",
+    "description": "HealthMonitor: [127.0.0.1]:5701 [dev] [3.2.5] memory.used=133.8M, memory.free=197.7M, memory.total=331.5M, memory.max=1.8G, memory.used/total=40.36%, memory.used/max=7.43%, load.process=-100.00%, load.system=100.00%, load.systemAverage=-100.00%, thread.count=28, thread.peakCount=28, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.operation.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operation.size=0, executor.q.priorityOperation.size=0, executor.q.response.size=0, operations.remote.size=0, operations.running.size=0, proxy.count=0, clientEndpoint.count=0, connection.active.count=0, connection.count=0",
+    "timeStamp": "2018-09-10 20:26:43,212",
+    "thread": "hz.repapp.HealthMonitor"
+  },
+  {
+    "id": 1344,
+    "logLevel": "INFO",
+    "description": "HazelcastCacheRegionFactory: Starting up HazelcastCacheRegionFactory",
+    "timeStamp": "2018-09-10 20:26:59,627",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 1346,
+    "logLevel": "INFO",
+    "description": "WebConfigurer: Web application configuration, using profiles: [dev]",
+    "timeStamp": "2018-09-10 20:27:07,700",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 1351,
+    "logLevel": "INFO",
+    "description": "WebConfigurer: Web application fully configured",
+    "timeStamp": "2018-09-10 20:27:07,716",
+    "thread": "localhost-startStop-1"
+  },
+  {
+    "id": 1352,
+    "logLevel": "INFO",
+    "description": "Application: Running with Spring profile(s) : [dev]",
+    "timeStamp": "2018-09-10 20:27:07,903",
+    "thread": "main"
+  },
+  {
+    "id": 1355,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 20:27:09,525",
+    "thread": "main"
+  },
+  {
+    "id": 1359,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 20:27:09,557",
+    "thread": "main"
+  },
+  {
+    "id": 1364,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 20:27:11,179",
+    "thread": "main"
+  },
+  {
+    "id": 1370,
+    "logLevel": "INFO",
+    "description": "PaymentService: payment observers size 4",
+    "timeStamp": "2018-09-10 20:27:11,226",
+    "thread": "main"
+  },
+  {
+    "id": 1374,
+    "logLevel": "INFO",
+    "description": "ThymeleafConfiguration: loading non-reloadable mail messages resources",
+    "timeStamp": "2018-09-10 20:27:11,351",
+    "thread": "main"
+  },
+  {
+    "id": 1375,
+    "logLevel": "INFO",
+    "description": "HealthMonitor: [127.0.0.1]:5701 [dev] [3.2.5] memory.used=263.5M, memory.free=518.5M, memory.total=782.0M, memory.max=1.8G, memory.used/total=33.70%, memory.used/max=14.63%, load.process=72.00%, load.system=78.00%, load.systemAverage=-100.00%, thread.count=35, thread.peakCount=35, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.operation.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operation.size=0, executor.q.priorityOperation.size=0, executor.q.response.size=0, operations.remote.size=0, operations.running.size=0, proxy.count=65, clientEndpoint.count=0, connection.active.count=0, connection.count=0",
+    "timeStamp": "2018-09-10 20:27:13,223",
+    "thread": "hz.repapp.HealthMonitor"
+  },
+  {
+    "id": 1378,
+    "logLevel": "INFO",
+    "description": "Application: Started Application in 54.671 seconds (JVM running for 56.04)",
+    "timeStamp": "2018-09-10 20:27:28,091",
+    "thread": "main"
+  },
+  {
+    "id": 1462,
+    "logLevel": "INFO",
+    "description": "ConnectCheckTransaction: &NETCONNECT_TRANSACTION=<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><NetConnectRequest xmlns=\"http://www.experian.com/NetConnect\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.experian.com/NetConnect NetConnect.xsd\"> <EAI>JOKMYOZW</EAI><DBHost>STAR</DBHost><ReferenceId>20153110200977</ReferenceId><Request xmlns=\"http://www.experian.com/WebDelivery\" version=\"1.0\"> <Products><ConnectCheck><Subscriber><Preamble>TEST</Preamble><OpInitials>TN</OpInitials><SubCode>5991712</SubCode></Subscriber><PrimaryApplicant><Name><Surname>HELEN</Surname><First>WILLIE</First></Name><SSN>666438798</SSN><CurrentAddress> <Street>1202 AURORA ST</Street> <City>HOUSTON</City> <State>TX</State> <Zip>77009</Zip> </CurrentAddress> <YOB>1956</YOB></PrimaryApplicant><OutputType> <ARF>  <ARFVersion>06</ARFVersion> </ARF></OutputType><Vendor> <VendorNumber>577</VendorNumber> </Vendor><Options> <ReferenceNumber>20153110200977</ReferenceNumber><EndUser>admin</EndUser> </Options></ConnectCheck> </Products></Request></NetConnectRequest>",
+    "timeStamp": "2018-09-10 20:31:10,595",
+    "thread": "http-nio-8080-exec-8"
+  },
+  {
+    "id": 1547,
+    "logLevel": "INFO",
+    "description": "ConnectCheckTransaction: &NETCONNECT_TRANSACTION=<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><NetConnectRequest xmlns=\"http://www.experian.com/NetConnect\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.experian.com/NetConnect NetConnect.xsd\"> <EAI>JOKMYOZW</EAI><DBHost>STAR</DBHost><ReferenceId>20153210200983</ReferenceId><Request xmlns=\"http://www.experian.com/WebDelivery\" version=\"1.0\"> <Products><ConnectCheck><Subscriber><Preamble>TEST</Preamble><OpInitials>TN</OpInitials><SubCode>5991712</SubCode></Subscriber><PrimaryApplicant><Name><Surname>kjlkjljlk</Surname><First>safadfasf</First></Name><SSN>111111111</SSN><CurrentAddress> <Street>5404 JONATHAN LN</Street> <City>HOUSTON</City> <State>TX</State> <Zip>77011</Zip> </CurrentAddress> <YOB>2015</YOB></PrimaryApplicant><OutputType> <ARF>  <ARFVersion>06</ARFVersion> </ARF></OutputType><Vendor> <VendorNumber>577</VendorNumber> </Vendor><Options> <ReferenceNumber>20153210200983</ReferenceNumber><EndUser>admin</EndUser> </Options></ConnectCheck> </Products></Request></NetConnectRequest>",
+    "timeStamp": "2018-09-10 20:32:08,501",
+    "thread": "http-nio-8080-exec-9"
+  },
+  {
+    "id": 1560,
+    "logLevel": "INFO",
+    "description": "EnrolResource: enrolDTO-EnrolDTO{esiid='1008901006900889980114', firstName='safadfasf', lastName='kjlkjljlk', email='sdfds@sdfd.com', servAdd='AddressDTO{address='5404 JONATHAN LN', city='HOUSTON', state='TX', zipcode='77011'}', billAdd='null'}",
+    "timeStamp": "2018-09-10 20:33:03,492",
+    "thread": "http-nio-8080-exec-10"
+  },
+  {
+    "id": 1565,
+    "logLevel": "INFO",
+    "description": "HttpClient: Use Proxy: 'false'",
+    "timeStamp": "2018-09-10 20:33:03,645",
+    "thread": "http-nio-8080-exec-10"
+  },
+  {
+    "id": 1568,
+    "logLevel": "INFO",
+    "description": "EnrolResource: new account created with id-5",
+    "timeStamp": "2018-09-10 20:33:05,926",
+    "thread": "http-nio-8080-exec-10"
+  },
+  {
+    "id": 1569,
+    "logLevel": "INFO",
+    "description": "EnrolResource: address created with id -5",
+    "timeStamp": "2018-09-10 20:33:05,926",
+    "thread": "http-nio-8080-exec-10"
+  },
+  {
+    "id": 1570,
+    "logLevel": "INFO",
+    "description": "EnrolResource: contract created with id -5",
+    "timeStamp": "2018-09-10 20:33:05,926",
+    "thread": "http-nio-8080-exec-10"
+  },
+  {
+    "id": 1571,
+    "logLevel": "INFO",
+    "description": "EnrolResource: contract plan map created with id -10",
+    "timeStamp": "2018-09-10 20:33:05,926",
+    "thread": "http-nio-8080-exec-10"
+  }
+]

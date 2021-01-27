@@ -1,0 +1,41 @@
+<mat-card class="example-container mat-elevation-z8">
+<h3>Choose a log level and top (N) value</h3>
+  <div class="example-radio-group" >
+<mat-radio-group aria-labelledby="loglevels" [(ngModel)]="level" required>
+  <mat-radio-button name="level" class="example-radio-button" *ngFor="let l of logLevel" [value]="l">
+    {{l}}
+  </mat-radio-button>
+</mat-radio-group>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <mat-form-field appearance="outline" required>
+    <mat-label>Top [N] logs for selected level</mat-label>
+    <input matInput type="text" [(ngModel)]="topN" name="topN">
+    <mat-hint>Enter number from 0 - 100</mat-hint>
+    <button mat-button *ngIf="topN" matSuffix mat-icon-button aria-label="Clear" (click)="topN=0">
+      <mat-icon>close</mat-icon>
+    </button>
+  </mat-form-field>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <button mat-raised-button color="primary" (click)="getLogs()">Submit</button>
+  </div>
+  <mat-table [dataSource]="logResult" class="mat-elevation-z8" *ngIf="logResult.data.length; else noRecord">
+    <!-- Position Column -->
+    <ng-container matColumnDef="errorDescription">
+      <mat-header-cell *matHeaderCellDef fxFlex="1500px"> ErrorDescription </mat-header-cell>
+      <mat-cell *matCellDef = "let element" fxFlex="1500px"> {{element.errorDescription}} </mat-cell>
+    </ng-container>
+
+    <!-- Name Column -->
+    <ng-container matColumnDef="occurrences">
+      <mat-header-cell *matHeaderCellDef> Occurances </mat-header-cell>
+      <mat-cell *matCellDef = "let element"> {{element.occurrences}} </mat-cell>
+    </ng-container>
+    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+  </mat-table>
+  <ng-template #noRecord>
+    <div fxLayout="row" fxLayoutAlign="center center" class="no-record">
+      No Record(s) found
+    </div>
+  </ng-template>
+</mat-card>
