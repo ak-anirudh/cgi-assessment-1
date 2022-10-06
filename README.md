@@ -1,6 +1,6 @@
 # CGI Assessment
 
-#### Author - [`Kesava Anirudh Annadanam`]{https://github.com/ak-anirudh}
+#### Author - [`Kesava Anirudh Annadanam`](https://github.com/ak-anirudh)
 
 ## Instructions :
 
