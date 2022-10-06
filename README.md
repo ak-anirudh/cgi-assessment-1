@@ -1,5 +1,7 @@
 # CGI Assessment
 
+#### Author - [`Kesava Anirudh Annadanam`]{https://github.com/ak-anirudh}
+
 ## Instructions :
 
 - You will be given only READ access to this repository
@@ -18,7 +20,7 @@
 
 ### Test 1 - Receipe App
 
-As part of this scenario, you should read the file "receipe.json" and create below REST endpoints
+As part of this scenario, you should read the file `receipe.json` and create below REST endpoints
 
 1. **[endpoint 1]** One endpoint to display all receipes
 2. **[endpoint 2]** Add another endpoint which takes array of ingredients as input. 
@@ -37,11 +39,12 @@ The output should give list of receipes which consists of all the given input in
 Integrate these endpoints with Front End which should have below behaviours
 
 - A button which should display all receipe's in a table
-- A multiple selectable dropdown which should select ingredients and passed as input to above endpoint **[endpoint 2]**. The result should be shown in a table.
+- A multiple selectable dropdown which should select ingredients and passed as input to above endpoint **[endpoint 2]**. 
+- The result should be shown in a table.
 
 ### Test 2 - Log Analyser app
 
-As part of this scenario, you should read the file "logFile-2018-09-10.log" and perform below actions
+As part of this scenario, you should read the file `logFile-2018-09-10.log` and perform below actions
 
 - create an endpoint which accepts the log type as input, for eg., DEBUG, WARN or ERROR.
 - Display top N recurring errors in sorted order with error descriptions and number of times it occurred. 
@@ -49,30 +52,31 @@ As part of this scenario, you should read the file "logFile-2018-09-10.log" and 
 
 Integrate this endpoint with Front End where the log type is selected from radio button group 
 
-====================================================
+================================================================================================================================
 
-##API
+## API
 
-####Spring Boot 
+#### Spring Boot 
 
-###name - `cgi-assessment-1`
+### name - `cgi-assessment-1`
 
 Commands to run the application 
 
-```mvn clean install```
+```shell
+mvn clean install
+```
 
-```mvn spring-boot:run```
+```shell
+mvn spring-boot:run
+```
 
 You can also access Swagger for the OPEN API Specification from [`http://localhost:8080/cgi/`](http://localhost:8080/cgi/)
 
-=====================================================
-
-##Front-End
+## Front-End
 
 #### Angular Project for the assignment included in `cgi-assessment-1/src/main/js` 
 
-###name - `cgi-assessment-FE`
+#### name - `cgi-assessment-FE`
 
-A [README.Md] included in the project root-folder for instructions to run the application.
 
 
