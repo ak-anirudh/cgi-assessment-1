@@ -52,7 +52,7 @@ As part of this scenario, you should read the file `logFile-2018-09-10.log` and 
 
 Integrate this endpoint with Front End where the log type is selected from radio button group 
 
-================================================================================================================================
+=============================================================================
 
 ## API
 
